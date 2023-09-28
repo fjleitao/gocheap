@@ -1,0 +1,11 @@
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+  }
+
+@media (max-width: 768px){
+    /* Reducir el tamaño de las imágenes en el carrusel para dispositivos móviles */
+    .carousel-item img {
+      max-height: 300px; /* Ajusta el valor según tus necesidades */
+    }
+  }
