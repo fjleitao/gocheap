@@ -2,6 +2,16 @@
     background-color:rgb(244 238 236);
 } */
 
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto-inicial{
+    color: rgba(0, 0, 0, 0.488);
+    text-align: center;
+    font-size: 16px;
+}
+
 header{
     margin-bottom: 1dvh;
 }
@@ -30,6 +40,7 @@ footer{
 footer p{
     padding: 1dvh;
     text-align: center;
+    font-size: 13px;
 }
 
 .carrousel_principal_1{
@@ -62,8 +73,8 @@ footer p{
   }
 
 .suscribirse{
-    width: 50%;
+    width: 80%;
     align-items: center;
     justify-content: center;
-    margin-left: 25%;
+    margin-left: 10%;
 }
