@@ -60,6 +60,7 @@ footer p{
 .carousel-item img{
     height: 500px;
     padding: 5px;
+    border-radius: 5%
 }
 
 .carruseles_principales{
